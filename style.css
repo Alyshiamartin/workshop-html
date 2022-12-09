@@ -1,1 +1,10 @@
-inhoud
+body
+{
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+}
